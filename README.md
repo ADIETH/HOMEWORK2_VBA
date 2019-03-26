@@ -1,4 +1,3 @@
-# HOMEWORK2_VBA
 # The VBA of Wall Street
 
 Utilize VBA script to analyze real stock market data. 
@@ -26,4 +25,4 @@ Utilize VBA script to analyze real stock market data.
 
 * Submitted a screen shot of the result for each year  on the Multi Year Stock Data.
 
-* Submitted the VBA Scripts.
+*Final VBA Scripts is included.
